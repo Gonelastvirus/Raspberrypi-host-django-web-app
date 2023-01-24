@@ -151,4 +151,5 @@ Secure your server:
 
         sudo ufw status
 
+![Logo](https://user-images.githubusercontent.com/67478827/214289229-a8e46b04-d195-4bdc-8a47-9f5e3dc6baf8.png)
 
